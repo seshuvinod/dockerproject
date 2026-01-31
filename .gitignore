@@ -13,3 +13,6 @@
 /obj/Debug/net8.0/dockerproject.AssemblyInfo.cs
 /.vs/dockerproject/FileContentIndex/c9fc3103-ccbe-482c-9854-a1e64c4c72a6.vsidx
 /.vs/dockerproject/FileContentIndex/d421de12-5594-433f-9f65-3f10a7eb7d0e.vsidx
+.vs
+obj
+bin
