@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/dockerproject/CopilotIndices/17.14.1577.30250/SemanticSymbols.db-wal
+/.vs/dockerproject/CopilotIndices/17.14.1577.30250/SemanticSymbols.db-shm
+/.vs/dockerproject/CopilotIndices/17.14.1577.30250/CodeChunks.db-wal
+/.vs/dockerproject/CopilotIndices/17.14.1577.30250/CodeChunks.db-shm
+/.vs/dockerproject/FileContentIndex/a93c1638-5cc5-4f49-82ed-6b213f9c64d9.vsidx
+/.vs/dockerproject/FileContentIndex/6065275e-46ff-4d55-b772-38e4f76658a8.vsidx
+/obj/Debug/net8.0/rpswa.dswa.cache.json
+/obj/Debug/net8.0/dockerproject.AssemblyInfoInputs.cache
+/obj/Debug/net8.0/dockerproject.AssemblyInfo.cs
