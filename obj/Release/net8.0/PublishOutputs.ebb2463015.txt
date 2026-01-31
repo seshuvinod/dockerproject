@@ -1,0 +1,7 @@
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\dockerproject.exe
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\dockerproject.dll
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\dockerproject.deps.json
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\dockerproject.runtimeconfig.json
+C:\dockerproj\dockerproject\obj\Release\net8.0\PubTmp\Out\dockerproject.pdb
