@@ -18,3 +18,10 @@ obj
 bin
 /.vs/dockerproject/DesignTimeBuild/.dtbcache.v2
 /.vs/dockerproject/v17/.suo
+/obj/Release/net8.0/dockerproject.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/ProjectEvaluation/dockerproject.strings.v9.bin
+/.vs/ProjectEvaluation/dockerproject.projects.v9.bin
+/obj/Release/net8.0/dockerproject.assets.cache
+/obj/Release/net8.0/dockerproject.AssemblyInfoInputs.cache
+/obj/Release/net8.0/dockerproject.AssemblyInfo.cs
+/obj/Release/net8.0/apphost.exe
